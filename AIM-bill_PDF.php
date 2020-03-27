@@ -267,7 +267,7 @@
 
         <div id="thankings">
             <span>MERCI pour votre confiance!</span><br>
-            <span>A bientôt pour d'autres aventure photographiques!</span>
+            <span>A bientôt pour d'autres aventures photographiques!</span>
         </div>
 
     </main>
